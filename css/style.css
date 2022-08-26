@@ -12,7 +12,7 @@ h1 {
 }
 
 .menu-item > div {	
-	border: 3px solid #a1a1a1;
+	border: 1px solid #000000;
     margin-bottom: 30px;
     background-color: #efefef;
 }
@@ -23,8 +23,8 @@ h1 {
     text-align: center;
     float: right;
     border-style: solid;
-    border-color: #a1a1a1;
-    border-width: 0 0 3px 3px;
+    border-color: #000000;
+    border-width: 0 0 1px 1px;
 }
 
 .menu-item:nth-child(1) > div h4 {
